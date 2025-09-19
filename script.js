@@ -29,3 +29,5 @@
             copyright.innerHTML = `&copy; ${new Date().getFullYear()} BrandName, Inc. All rights reserved.`;
         }
       });
+
+      
